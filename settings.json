@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "MC6967bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
-    "try-creative": false
+    "ip": "cruorsmp.aternos.me",
+    "port": 20239,
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -39,7 +39,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 12000
   },
   "movement": {
     "enabled": true,
