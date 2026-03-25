@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "ProBotMC",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "cruorsmp.aternos.me",
